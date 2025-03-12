@@ -1,0 +1,15 @@
+C:\Dev_Caio\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.exe
+C:\Dev_Caio\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.deps.json
+C:\Dev_Caio\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.runtimeconfig.json
+C:\Dev_Caio\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.dll
+C:\Dev_Caio\design-patterns\FactoryMethod\bin\Debug\net8.0\FactoryMethod.pdb
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfoInputs.cache
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.AssemblyInfo.cs
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.sourcelink.json
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.dll
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\refint\FactoryMethod.dll
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.pdb
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\FactoryMethod.genruntimeconfig.cache
+C:\Dev_Caio\design-patterns\FactoryMethod\obj\Debug\net8.0\ref\FactoryMethod.dll
